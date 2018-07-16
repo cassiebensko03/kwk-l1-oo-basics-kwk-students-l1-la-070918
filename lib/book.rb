@@ -25,3 +25,5 @@ def genre=(genre)
   def genre
     @genre
   end
+
+Book.new("And Then There Were None")
