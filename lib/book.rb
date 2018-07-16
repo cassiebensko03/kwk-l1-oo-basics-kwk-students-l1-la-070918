@@ -27,6 +27,8 @@ def genre=(genre)
   end
 
 def turn_page
+      puts "Flipping the page...wow, this is a damn good book!"
+
 end 
 
 Book.new("And Then There Were None")
