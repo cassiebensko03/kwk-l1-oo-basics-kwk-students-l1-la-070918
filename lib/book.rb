@@ -26,4 +26,6 @@ def genre=(genre)
     @genre
   end
 
+def turn_page
+  @turn_page = turn_page
 Book.new("And Then There Were None")
