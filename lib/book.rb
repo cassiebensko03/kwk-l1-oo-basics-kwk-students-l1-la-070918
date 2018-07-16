@@ -6,3 +6,7 @@ end
 
 def title 
 end
+
+def author 
+  @author = author 
+end
