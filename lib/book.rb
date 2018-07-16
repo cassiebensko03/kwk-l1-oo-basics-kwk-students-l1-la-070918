@@ -1,18 +1,4 @@
-# # book.rb
-# # Add you Book class here
-# class Book
-# end
-#   attr_accessor :title, :author
-#   def initialize(title)
-    
-# @title = title 
-# @author = author
 
-# Book.new("And Then There Were None")class Book
-class Book
-  
-  def initialize(title)
-    @title = title
   end
 
   def title
